@@ -1,16 +1,14 @@
-<!doctype html>
 <html>
 <head>
 <style type="text/css">
-	h1{text-align:center;color:#FF0004;}	
-</style>
-<meta charset="utf-8">
-<title>唐诗</title>
-</head>
-
-<body>
-<h1>静夜思</h1>	
+	p{text-align: center}	
 	
+	
+</style>	
+</head>
+<body>
+<p>短歌行<br>曹操</p>
 	
 </body>
 </html>
+
